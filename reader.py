@@ -38,7 +38,7 @@ while True:
     elif menu == "y":
         while menu == "y":
             with open(file_Name) as file:
-                print("\n1. Print out the text file to screen")
+                print("\n1. Prints the text file to screen")
                 print("2. Number of Lines")
                 print("3. Back\n")
                 menu_2 = int(input("Select: "))
